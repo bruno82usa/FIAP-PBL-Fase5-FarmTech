@@ -10,7 +10,7 @@ Neste projeto, desenvolvemos uma solução de Inteligência Artificial para a Fa
 
 Toda a análise, desenvolvimento e conclusões estão documentados no Jupyter Notebook. Para uma melhor experiência e para garantir que todo o código seja executado corretamente, recomendamos abri-lo no Google Colab.
 
-* **[Clique aqui para abrir o Notebook no Google Colab](LINK_PARA_SEU_NOTEBOOK_NO_COLAB)**
+* **[Clique aqui para abrir o Notebook no Google Colab]([LINK_PARA_SEU_NOTEBOOK_NO_COLAB](https://colab.research.google.com/github/bruno82usa/FIAP-PBL-Fase5-FarmTech/blob/main/Bruno_Gambarini_RM561517_pbl_fase5.ipynb))**
 
 ## 🎥 Vídeo de Apresentação
 
