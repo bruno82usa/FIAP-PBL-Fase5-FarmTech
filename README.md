@@ -1,23 +1,42 @@
-# FIAP - Projeto PBL Fase 5: FarmTech Solutions
+# 🤖 FIAP - Análise Preditiva de Safras com Machine Learning
 
-Este repositório contém a solução do projeto da Fase 5, focado em Machine Learning para previsão de rendimento de safras.
+![Python](https://img.shields.io/badge/Python-3.9-blue.svg)
+![Libs](https://img.shields.io/badge/Libs-Scikit--Learn%20%7C%20Pandas%20%7C%20Seaborn-orange.svg)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen.svg)
 
-## 📝 Descrição do Projeto
+Este repositório contém a solução completa para o **Projeto PBL da Fase 5** do curso de Inteligência Artificial da FIAP, focado na aplicação de técnicas de Machine Learning para a empresa fictícia **FarmTech Solutions**.
 
-Neste projeto, desenvolvemos uma solução de Inteligência Artificial para a FarmTech Solutions. O objetivo foi analisar um dataset agrícola para encontrar tendências de produtividade através de clusterização e construir cinco modelos preditivos para prever o rendimento de diferentes culturas com base em dados climáticos e de solo.
+---
+
+## 🎯 Descrição do Projeto
+
+Neste projeto, nosso time atuou como cientista de dados para a FarmTech Solutions. A missão foi analisar um dataset agrícola para:
+
+1.  **Encontrar Tendências:** Utilizar clusterização (K-Means) para agrupar safras com características similares, identificando padrões de alta e baixa produtividade.
+2.  **Prever o Rendimento:** Construir, treinar e avaliar cinco modelos preditivos de regressão para estimar o rendimento (`Yield`) de uma safra com base em dados climáticos.
+
+O projeto cobre todo o ciclo de vida de um projeto de Machine Learning, desde a Análise Exploratória dos Dados (EDA) até a conclusão e interpretação dos resultados dos modelos.
+
+---
 
 ## 🚀 Como Executar a Solução
 
-Toda a análise, desenvolvimento e conclusões estão documentados no Jupyter Notebook. Para uma melhor experiência e para garantir que todo o código seja executado corretamente, recomendamos abri-lo no Google Colab.
+Toda a análise, código e conclusões estão consolidados em um único Jupyter Notebook. Para garantir a reprodutibilidade e a melhor experiência de visualização, recomendamos executá-lo no Google Colab.
 
-* **[Clique aqui para abrir o Notebook no Google Colab]([LINK_PARA_SEU_NOTEBOOK_NO_COLAB](https://colab.research.google.com/github/bruno82usa/FIAP-PBL-Fase5-FarmTech/blob/main/Bruno_Gambarini_RM561517_pbl_fase5.ipynb))**
+* **[➡️ Clique aqui para abrir o Notebook no Google Colab](https://colab.research.google.com/github/bruno82usa/FIAP-PBL-Fase5-FarmTech/blob/main/Bruno_usa_RM352018_pbl_fase5.ipynb)** * *Nota: Substitua o link acima se o nome do seu arquivo principal for outro.*
+
+---
 
 ## 🎥 Vídeo de Apresentação
 
-O vídeo abaixo (até 5 minutos) demonstra o funcionamento da solução, a análise dos dados e os resultados encontrados pelos modelos de Machine Learning.
+O vídeo abaixo (duração de 5 minutos) demonstra o funcionamento da solução, explica os principais insights encontrados na análise dos dados e apresenta os resultados dos modelos preditivos.
 
-* **[Link para o vídeo no YouTube (Não Listado)](LINK_PARA_SEU_VIDEO_AQUI)**
+* **[📺 Assistir ao vídeo de demonstração no YouTube](LINK_DO_SEU_VIDEO_AQUI)**
 
-## 👥 Membro do Grupo
+---
 
-* Bruno Gambarini - RM561517
+## 👥 Membros do Grupo
+
+| Nome Completo        | RM      |
+| -------------------- | ------- |
+| Bruno Gambarini      | 561517  |
