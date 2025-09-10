@@ -31,8 +31,8 @@ Toda a análise, código e conclusões estão consolidados em um único Jupyter 
 
 Os vídeos abaixo demonstram o funcionamento da solução, explicam os principais insights encontrados na análise dos dados e apresentam os resultados dos modelos preditivos.
 
-* **[📺 Assistir ao Vídeo 1 no YouTube](LINK_DO_SEU_VIDEO_1_AQUI)**
-* **[📺 Assistir ao Vídeo 2 no YouTube](LINK_DO_SEU_VIDEO_2_AQUI)**
+* **[📺 Assistir ao Vídeo 1 Colab](https://youtu.be/PA6P5-QIKW8)**
+* **[📺 Assistir ao Vídeo 2 JupyterLab](https://youtu.be/cnDsVSye6EM)**
 
 ---
 
