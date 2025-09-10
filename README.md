@@ -23,20 +23,23 @@ O projeto cobre todo o ciclo de vida de um projeto de Machine Learning, desde a 
 
 Toda a análise, código e conclusões estão consolidados em um único Jupyter Notebook. Para garantir a reprodutibilidade e a melhor experiência de visualização, recomendamos executá-lo no Google Colab.
 
-* **[➡️ Clique aqui para abrir o Notebook no Google Colab](https://colab.research.google.com/github/bruno82usa/FIAP-PBL-Fase5-FarmTech/blob/main/Bruno_usa_RM352018_pbl_fase5.ipynb)** * *Nota: Substitua o link acima se o nome do seu arquivo principal for outro.*
+* **[➡️ Clique aqui para abrir o Notebook no Google Colab](https://colab.research.google.com/github/bruno82usa/FIAP-PBL-Fase5-FarmTech/blob/main/Bruno_Gambarini_RM561517_pbl_fase5.ipynb)**
 
 ---
 
-## 🎥 Vídeo de Apresentação
+## 🎥 Vídeos de Apresentação
 
-O vídeo abaixo (duração de 5 minutos) demonstra o funcionamento da solução, explica os principais insights encontrados na análise dos dados e apresenta os resultados dos modelos preditivos.
+Os vídeos abaixo demonstram o funcionamento da solução, explicam os principais insights encontrados na análise dos dados e apresentam os resultados dos modelos preditivos.
 
-* **[📺 Assistir ao vídeo de demonstração no YouTube](LINK_DO_SEU_VIDEO_AQUI)**
+* **[📺 Assistir ao Vídeo 1 no YouTube](LINK_DO_SEU_VIDEO_1_AQUI)**
+* **[📺 Assistir ao Vídeo 2 no YouTube](LINK_DO_SEU_VIDEO_2_AQUI)**
 
 ---
 
 ## 👥 Membros do Grupo
 
+----------------------------------
 | Nome Completo        | RM      |
 | -------------------- | ------- |
 | Bruno Gambarini      | 561517  |
+----------------------------------
